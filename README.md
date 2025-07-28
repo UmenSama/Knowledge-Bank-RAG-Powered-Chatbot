@@ -79,11 +79,11 @@ The application will be available at `http://localhost:5173` (or the port shown 
 
 ## 🔑 Environment Variables
 
-| Variable                       | Description                                       | Required |
-| ------------------------------ | ------------------------------------------------- | -------- |
-| `VITE_OPENAI_API_KEY`          | Your OpenAI API key for GPT models and embeddings | Yes      |
-| `VITE_SUPABASE_API_KEY`        | Your Supabase API key for vector store access     | Yes      |
-| `VITE_SUPABASE_URL_LC_CHATBOT` | Your Supabase project URL                         | Yes      |
+| Variable | Description | Required |
+|----------|-------------|----------|
+| `VITE_OPENAI_API_KEY` | Your OpenAI API key for GPT models and embeddings | Yes |
+| `VITE_SUPABASE_API_KEY` | Your Supabase API key for vector store access | Yes |
+| `VITE_SUPABASE_URL_LC_CHATBOT` | Your Supabase project URL | Yes |
 
 ## 🏗️ Project Structure
 
