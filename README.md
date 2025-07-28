@@ -161,24 +161,4 @@ langchain-chatbot/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built as part of the [Scrimba LangChain.js course](https://scrimba.com/learn-langchainjs-c02t/~0q)
-- Powered by [LangChain.js](https://js.langchain.com/)
-- Vector storage provided by [Supabase](https://supabase.com/)
-- AI capabilities from [OpenAI](https://openai.com/)
-
-## 📞 Support
-
-If you have any questions or need help, please:
-
-- Open an issue in this repository
-- Contact Scrimba support at help@scrimba.com
-
----
-
-**Happy Coding! 🚀**
